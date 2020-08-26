@@ -1,0 +1,13 @@
+C:\Users\Timwe\source\repos\GuessMyNumberGame\GuessMyNumberGame\obj\Debug\netcoreapp3.1\GuessMyNumberGame.csprojAssemblyReference.cache
+C:\Users\Timwe\source\repos\GuessMyNumberGame\GuessMyNumberGame\obj\Debug\netcoreapp3.1\GuessMyNumberGame.AssemblyInfoInputs.cache
+C:\Users\Timwe\source\repos\GuessMyNumberGame\GuessMyNumberGame\obj\Debug\netcoreapp3.1\GuessMyNumberGame.AssemblyInfo.cs
+C:\Users\Timwe\source\repos\GuessMyNumberGame\GuessMyNumberGame\obj\Debug\netcoreapp3.1\GuessMyNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\Timwe\source\repos\GuessMyNumberGame\GuessMyNumberGame\bin\Debug\netcoreapp3.1\GuessMyNumberGame.exe
+C:\Users\Timwe\source\repos\GuessMyNumberGame\GuessMyNumberGame\bin\Debug\netcoreapp3.1\GuessMyNumberGame.deps.json
+C:\Users\Timwe\source\repos\GuessMyNumberGame\GuessMyNumberGame\bin\Debug\netcoreapp3.1\GuessMyNumberGame.runtimeconfig.json
+C:\Users\Timwe\source\repos\GuessMyNumberGame\GuessMyNumberGame\bin\Debug\netcoreapp3.1\GuessMyNumberGame.runtimeconfig.dev.json
+C:\Users\Timwe\source\repos\GuessMyNumberGame\GuessMyNumberGame\bin\Debug\netcoreapp3.1\GuessMyNumberGame.dll
+C:\Users\Timwe\source\repos\GuessMyNumberGame\GuessMyNumberGame\bin\Debug\netcoreapp3.1\GuessMyNumberGame.pdb
+C:\Users\Timwe\source\repos\GuessMyNumberGame\GuessMyNumberGame\obj\Debug\netcoreapp3.1\GuessMyNumberGame.dll
+C:\Users\Timwe\source\repos\GuessMyNumberGame\GuessMyNumberGame\obj\Debug\netcoreapp3.1\GuessMyNumberGame.pdb
+C:\Users\Timwe\source\repos\GuessMyNumberGame\GuessMyNumberGame\obj\Debug\netcoreapp3.1\GuessMyNumberGame.genruntimeconfig.cache
