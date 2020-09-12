@@ -1,0 +1,13 @@
+C:\Users\Timwe\source\repos\BaseNumConversion\bin\Debug\netcoreapp3.1\BaseNumConversion.exe
+C:\Users\Timwe\source\repos\BaseNumConversion\bin\Debug\netcoreapp3.1\BaseNumConversion.deps.json
+C:\Users\Timwe\source\repos\BaseNumConversion\bin\Debug\netcoreapp3.1\BaseNumConversion.runtimeconfig.json
+C:\Users\Timwe\source\repos\BaseNumConversion\bin\Debug\netcoreapp3.1\BaseNumConversion.runtimeconfig.dev.json
+C:\Users\Timwe\source\repos\BaseNumConversion\bin\Debug\netcoreapp3.1\BaseNumConversion.dll
+C:\Users\Timwe\source\repos\BaseNumConversion\bin\Debug\netcoreapp3.1\BaseNumConversion.pdb
+C:\Users\Timwe\source\repos\BaseNumConversion\obj\Debug\netcoreapp3.1\BaseNumConversion.csprojAssemblyReference.cache
+C:\Users\Timwe\source\repos\BaseNumConversion\obj\Debug\netcoreapp3.1\BaseNumConversion.AssemblyInfoInputs.cache
+C:\Users\Timwe\source\repos\BaseNumConversion\obj\Debug\netcoreapp3.1\BaseNumConversion.AssemblyInfo.cs
+C:\Users\Timwe\source\repos\BaseNumConversion\obj\Debug\netcoreapp3.1\BaseNumConversion.csproj.CoreCompileInputs.cache
+C:\Users\Timwe\source\repos\BaseNumConversion\obj\Debug\netcoreapp3.1\BaseNumConversion.dll
+C:\Users\Timwe\source\repos\BaseNumConversion\obj\Debug\netcoreapp3.1\BaseNumConversion.pdb
+C:\Users\Timwe\source\repos\BaseNumConversion\obj\Debug\netcoreapp3.1\BaseNumConversion.genruntimeconfig.cache
