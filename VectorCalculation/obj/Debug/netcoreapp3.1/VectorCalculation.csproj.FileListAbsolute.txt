@@ -1,0 +1,13 @@
+C:\Users\Timwe\source\repos\VectorCalculation\bin\Debug\netcoreapp3.1\VectorCalculation.exe
+C:\Users\Timwe\source\repos\VectorCalculation\bin\Debug\netcoreapp3.1\VectorCalculation.deps.json
+C:\Users\Timwe\source\repos\VectorCalculation\bin\Debug\netcoreapp3.1\VectorCalculation.runtimeconfig.json
+C:\Users\Timwe\source\repos\VectorCalculation\bin\Debug\netcoreapp3.1\VectorCalculation.runtimeconfig.dev.json
+C:\Users\Timwe\source\repos\VectorCalculation\bin\Debug\netcoreapp3.1\VectorCalculation.dll
+C:\Users\Timwe\source\repos\VectorCalculation\bin\Debug\netcoreapp3.1\VectorCalculation.pdb
+C:\Users\Timwe\source\repos\VectorCalculation\obj\Debug\netcoreapp3.1\VectorCalculation.csprojAssemblyReference.cache
+C:\Users\Timwe\source\repos\VectorCalculation\obj\Debug\netcoreapp3.1\VectorCalculation.AssemblyInfoInputs.cache
+C:\Users\Timwe\source\repos\VectorCalculation\obj\Debug\netcoreapp3.1\VectorCalculation.AssemblyInfo.cs
+C:\Users\Timwe\source\repos\VectorCalculation\obj\Debug\netcoreapp3.1\VectorCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Timwe\source\repos\VectorCalculation\obj\Debug\netcoreapp3.1\VectorCalculation.dll
+C:\Users\Timwe\source\repos\VectorCalculation\obj\Debug\netcoreapp3.1\VectorCalculation.pdb
+C:\Users\Timwe\source\repos\VectorCalculation\obj\Debug\netcoreapp3.1\VectorCalculation.genruntimeconfig.cache
