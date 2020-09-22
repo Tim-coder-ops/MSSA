@@ -1,0 +1,13 @@
+C:\Users\Timwe\source\repos\MathGames\bin\Debug\netcoreapp3.1\MathGames.exe
+C:\Users\Timwe\source\repos\MathGames\bin\Debug\netcoreapp3.1\MathGames.deps.json
+C:\Users\Timwe\source\repos\MathGames\bin\Debug\netcoreapp3.1\MathGames.runtimeconfig.json
+C:\Users\Timwe\source\repos\MathGames\bin\Debug\netcoreapp3.1\MathGames.runtimeconfig.dev.json
+C:\Users\Timwe\source\repos\MathGames\bin\Debug\netcoreapp3.1\MathGames.dll
+C:\Users\Timwe\source\repos\MathGames\bin\Debug\netcoreapp3.1\MathGames.pdb
+C:\Users\Timwe\source\repos\MathGames\obj\Debug\netcoreapp3.1\MathGames.csprojAssemblyReference.cache
+C:\Users\Timwe\source\repos\MathGames\obj\Debug\netcoreapp3.1\MathGames.AssemblyInfoInputs.cache
+C:\Users\Timwe\source\repos\MathGames\obj\Debug\netcoreapp3.1\MathGames.AssemblyInfo.cs
+C:\Users\Timwe\source\repos\MathGames\obj\Debug\netcoreapp3.1\MathGames.csproj.CoreCompileInputs.cache
+C:\Users\Timwe\source\repos\MathGames\obj\Debug\netcoreapp3.1\MathGames.dll
+C:\Users\Timwe\source\repos\MathGames\obj\Debug\netcoreapp3.1\MathGames.pdb
+C:\Users\Timwe\source\repos\MathGames\obj\Debug\netcoreapp3.1\MathGames.genruntimeconfig.cache

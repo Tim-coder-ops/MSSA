@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Timwe\\OneDrive\\Documents\\MSSA\\MSSA\\VectorCalculation\\VectorCalculation.csproj": {}
+    "C:\\Users\\Timwe\\source\\repos\\MathGames\\MathGames.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Timwe\\OneDrive\\Documents\\MSSA\\MSSA\\VectorCalculation\\VectorCalculation.csproj": {
+    "C:\\Users\\Timwe\\source\\repos\\MathGames\\MathGames.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Timwe\\OneDrive\\Documents\\MSSA\\MSSA\\VectorCalculation\\VectorCalculation.csproj",
-        "projectName": "VectorCalculation",
-        "projectPath": "C:\\Users\\Timwe\\OneDrive\\Documents\\MSSA\\MSSA\\VectorCalculation\\VectorCalculation.csproj",
+        "projectUniqueName": "C:\\Users\\Timwe\\source\\repos\\MathGames\\MathGames.csproj",
+        "projectName": "MathGames",
+        "projectPath": "C:\\Users\\Timwe\\source\\repos\\MathGames\\MathGames.csproj",
         "packagesPath": "C:\\Users\\Timwe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Timwe\\OneDrive\\Documents\\MSSA\\MSSA\\VectorCalculation\\obj\\",
+        "outputPath": "C:\\Users\\Timwe\\source\\repos\\MathGames\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Timwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
