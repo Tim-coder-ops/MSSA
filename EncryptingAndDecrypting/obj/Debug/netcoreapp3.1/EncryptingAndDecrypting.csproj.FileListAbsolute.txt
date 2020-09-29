@@ -1,0 +1,13 @@
+C:\Users\Timwe\source\repos\EncryptingAndDecrypting\bin\Debug\netcoreapp3.1\EncryptingAndDecrypting.exe
+C:\Users\Timwe\source\repos\EncryptingAndDecrypting\bin\Debug\netcoreapp3.1\EncryptingAndDecrypting.deps.json
+C:\Users\Timwe\source\repos\EncryptingAndDecrypting\bin\Debug\netcoreapp3.1\EncryptingAndDecrypting.runtimeconfig.json
+C:\Users\Timwe\source\repos\EncryptingAndDecrypting\bin\Debug\netcoreapp3.1\EncryptingAndDecrypting.runtimeconfig.dev.json
+C:\Users\Timwe\source\repos\EncryptingAndDecrypting\bin\Debug\netcoreapp3.1\EncryptingAndDecrypting.dll
+C:\Users\Timwe\source\repos\EncryptingAndDecrypting\bin\Debug\netcoreapp3.1\EncryptingAndDecrypting.pdb
+C:\Users\Timwe\source\repos\EncryptingAndDecrypting\obj\Debug\netcoreapp3.1\EncryptingAndDecrypting.csprojAssemblyReference.cache
+C:\Users\Timwe\source\repos\EncryptingAndDecrypting\obj\Debug\netcoreapp3.1\EncryptingAndDecrypting.AssemblyInfoInputs.cache
+C:\Users\Timwe\source\repos\EncryptingAndDecrypting\obj\Debug\netcoreapp3.1\EncryptingAndDecrypting.AssemblyInfo.cs
+C:\Users\Timwe\source\repos\EncryptingAndDecrypting\obj\Debug\netcoreapp3.1\EncryptingAndDecrypting.csproj.CoreCompileInputs.cache
+C:\Users\Timwe\source\repos\EncryptingAndDecrypting\obj\Debug\netcoreapp3.1\EncryptingAndDecrypting.dll
+C:\Users\Timwe\source\repos\EncryptingAndDecrypting\obj\Debug\netcoreapp3.1\EncryptingAndDecrypting.pdb
+C:\Users\Timwe\source\repos\EncryptingAndDecrypting\obj\Debug\netcoreapp3.1\EncryptingAndDecrypting.genruntimeconfig.cache
