@@ -1,0 +1,13 @@
+C:\Users\Timwe\source\repos\EX7ACSV\obj\Debug\netcoreapp3.1\EX7ACSV.csprojAssemblyReference.cache
+C:\Users\Timwe\source\repos\EX7ACSV\obj\Debug\netcoreapp3.1\EX7ACSV.AssemblyInfoInputs.cache
+C:\Users\Timwe\source\repos\EX7ACSV\obj\Debug\netcoreapp3.1\EX7ACSV.AssemblyInfo.cs
+C:\Users\Timwe\source\repos\EX7ACSV\obj\Debug\netcoreapp3.1\EX7ACSV.csproj.CoreCompileInputs.cache
+C:\Users\Timwe\source\repos\EX7ACSV\bin\Debug\netcoreapp3.1\EX7ACSV.exe
+C:\Users\Timwe\source\repos\EX7ACSV\bin\Debug\netcoreapp3.1\EX7ACSV.deps.json
+C:\Users\Timwe\source\repos\EX7ACSV\bin\Debug\netcoreapp3.1\EX7ACSV.runtimeconfig.json
+C:\Users\Timwe\source\repos\EX7ACSV\bin\Debug\netcoreapp3.1\EX7ACSV.runtimeconfig.dev.json
+C:\Users\Timwe\source\repos\EX7ACSV\bin\Debug\netcoreapp3.1\EX7ACSV.dll
+C:\Users\Timwe\source\repos\EX7ACSV\bin\Debug\netcoreapp3.1\EX7ACSV.pdb
+C:\Users\Timwe\source\repos\EX7ACSV\obj\Debug\netcoreapp3.1\EX7ACSV.dll
+C:\Users\Timwe\source\repos\EX7ACSV\obj\Debug\netcoreapp3.1\EX7ACSV.pdb
+C:\Users\Timwe\source\repos\EX7ACSV\obj\Debug\netcoreapp3.1\EX7ACSV.genruntimeconfig.cache
